@@ -19,6 +19,6 @@ You can take a look on this repo in order to practice and get ready to your exam
 - Create exercises inside the correct folders with the correct names before asking the machine to correct your exercises.
 - Practice, practice, practice, and good luck.
 
-## Here are my notes:
+//## Here are my notes:
 
-<img src="https://user-images.githubusercontent.com/76871172/127734058-ca7bd5ca-2eb4-4833-b463-148ec8174c89.jpeg" width="400" height="160" >
+//<img src="https://user-images.githubusercontent.com/76871172/127734058-ca7bd5ca-2eb4-4833-b463-148ec8174c89.jpeg" width="400" height="160" //>
